@@ -1,5 +1,5 @@
 # Continual-Correction-of-Errors-Using-Smart-Memory-Replay
-- Code for the work done in the paper Continual Correction of Errors Using Smart Memory Replay
+- Code for the work done in the paper Continual Correction of Errors Using Smart Memory Replay.
 
 ## Acknowledgements
 
