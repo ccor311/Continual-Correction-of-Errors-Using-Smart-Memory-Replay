@@ -7,7 +7,7 @@
 
 - [ResNet](https://github.com/jiweibo/ImageNet)
 
-- [TensorFlow](https://github.com/tensorflow/models
+- [TensorFlow](https://github.com/tensorflow/models)
 
 ## Environment
 
